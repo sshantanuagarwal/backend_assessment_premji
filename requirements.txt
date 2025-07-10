@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+pytest-html
+sqlalchemy
+uvicorn
+coverage
+email-validator
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+psycopg2-binary
+pandas
+httpx
